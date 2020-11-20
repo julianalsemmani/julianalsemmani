@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello there 👋
 
-**Computer Science Student in Norway**
+**Computer Science Student, living in Norway**
 
 - 🔭 I’m currently working on: Nothing Special, just learning
 - 🌱 I’m currently learning: Python

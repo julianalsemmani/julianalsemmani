@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
 **Computer Science Student in Norway**
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: Nothing Special, just learning
 - 🌱 I’m currently learning: Python
@@ -11,4 +8,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: Mail or Social Media
 - ⚡ Fun fact: Well, I'm a funny guy, jk.
--->

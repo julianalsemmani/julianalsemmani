@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-**Computer Science Student, living in Norway**
+**1. Year Computer Science Student, living in Norway**
 
 - 🔭 I’m currently working on: Blog System written in Vue.js and Java
 - 🌱 I’m currently learning: Java

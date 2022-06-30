@@ -3,7 +3,7 @@
 **3rd Year Computer Science Student, living in Norway**
 
 - 🔭 I’m currently working on: Workcruit
-- 🔭 Currently working at: Becour
+- 🔭 Currently working at: Becour as a Fullstack Developer
 - 🌱 I’m currently learning: C# & .NET
 - 👯 I’m looking to collaborate on: Any projects, just message me, and we'll figure it out.
 - 💬 Ask me about anything

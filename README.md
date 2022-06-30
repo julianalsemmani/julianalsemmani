@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-**2. Year Computer Science Student, living in Norway**
+**3rd Year Computer Science Student, living in Norway**
 
 - 🔭 I’m currently working on: Workcruit
 - 🌱 I’m currently learning: C# & .NET

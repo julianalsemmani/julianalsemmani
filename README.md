@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: Workcruit
 - 🔭 Currently working at: Becour as a Junior Fullstack Developer & Simployer as an intern
-- 🌱 I’m currently learning: C#, .NET, React & Kotlin
+- 🌱 I’m currently learning: Advanced C#, React & Kotlin
 - 👯 I’m looking to collaborate on: Any projects, just message me, and we'll figure it out.
 - 💬 Ask me about anything
 - 📫 How to reach me: Mail or Social Media

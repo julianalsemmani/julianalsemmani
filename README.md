@@ -3,7 +3,7 @@
 **3rd Year Computer Science Student, living in Norway**
 
 # 💫 About Me:
-🔭 I’m currently working on: Workcruit & Greenrang<br>🔭 Currently working at: <br>🌱 I’m currently learning: C# & .NET indepth & Vue.js<br>👯 I’m looking to collaborate on: Any projects, just message me, and we'll figure it out.<br>💬 Ask me about anything<br>📫 How to reach me: Mail or Social Media<br>⚡ Fun fact: I work too much.
+🔭 I’m currently working on: Workcruit<br>🔭 Currently working at: <br>🌱 I’m currently learning: C# & .NET indepth & Vue.js<br>👯 I’m looking to collaborate on: Any projects, just message me, and we'll figure it out.<br>💬 Ask me about anything<br>📫 How to reach me: Mail or Social Media<br>⚡ Fun fact: I work too much.
 
 
 ## 🌐 Socials:

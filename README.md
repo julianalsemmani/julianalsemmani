@@ -3,7 +3,7 @@
 **.NET Software Developer, living in Norway**
 
 # 💫 About Me:
-🔭 I’m currently working on: Workcruit & MoqMeetings<br>🔭 Currently working at: Simployer AS<br>🌱 I’m currently learning: Everything<br>👯 I’m looking to collaborate on: Any projects, just message me, and we'll figure it out.<br>💬 Ask me about anything<br>📫 How to reach me: Mail or Social Media<br>⚡ Fun fact: I work too much.
+🔭 I’m currently working on: Workcruit<br>🔭 Currently working at: Simployer AS<br>🌱 I’m currently learning: Everything<br>👯 I’m looking to collaborate on: Any projects, just message me, and we'll figure it out.<br>💬 Ask me about anything<br>📫 How to reach me: Mail or Social Media<br>⚡ Fun fact: I work too much.
 
 
 ## 🌐 Socials:

@@ -3,7 +3,7 @@
 **Software Developer, living in Norway**
 
 # 💫 About Me:
-🔭 I’m currently working on: Nothing<br>🔭 Currently working at: Nothing at the moment<br>🌱 I’m currently learning: Too busy with my masters degree, and free time projects.<br>💬 Ask me about anything<br>📫 How to reach me: Social media or <a href="mailto:julian@alsemmani.com">julian@alsemmani.com</a><br>⚡ School: Writing my master thesis at University Of Oslo, and some extra subjects from NTNU
+🔭 I’m currently working on: Nothing<br>🔭 Currently working at: Nothing at the moment<br>🌱 I’m currently learning: Nothing at the moment<br>💬 Ask me about anything<br>📫 How to reach me: Social media or <a href="mailto:julian@alsemmani.com">julian@alsemmani.com</a><br>⚡ School: One-year university program in Law and Economics
 
 
 ## 🌐 Socials:
